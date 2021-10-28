@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "fanpay-e15fe",
+    "staging": "fanpay-e15fe"
+  },
+  "targets": {}
+}
